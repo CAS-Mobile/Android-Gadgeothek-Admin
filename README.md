@@ -1,4 +1,4 @@
-## Admin-GUI für Miniprojekt
+## Admin-GUI für die Gadgeothek
 
 Starten mit Angabe des Servers:
 
